@@ -1,0 +1,29 @@
+body {
+    background-size: cover;
+}
+
+.Surveillance {
+ width: 100%;
+ font-size: 23px;
+ margin: 0px;
+
+}
+
+.footer {
+ position: fixed;
+ bottom: 0px;
+ text-align: center;
+ line-height: 3 ;
+ width: 100%;
+ color: hotpink;
+ background-color:white;
+ font-size: 15px;
+ font-weight: bold;
+}
+
+canvas {
+    margin-top: 130px;
+    border: 2px solid white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px white;
+}
